@@ -7,7 +7,7 @@ Landing Pages
     Landing Page 1: graidient landing page
     Landing Page 2: pink landing page
     Landing Page 3: gallery landing page
-    Landing Page 4: coffee landing page
+    Landing Page 4: bluebox landing page
     Landing Page 5: yellow landing page
     Landing Page 6: dark landing page
 
@@ -43,7 +43,7 @@ portfolio-project/
 │   ├── style.css
 │   └── [Additional files : imeges]
 
-├── coffee landing page/
+├── blue box landing page/
 │   ├── index.html
 │   ├── style.css
 │   └── [Additional files : imeges]
