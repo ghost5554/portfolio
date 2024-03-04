@@ -1,7 +1,7 @@
 Portfolio Project README
 Description
 
-This portfolio project showcases a collection of 6 landing pages developed using HTML, CSS, Sass, and Bootstrap. Each landing page demonstrates various design concepts and layout techniques, serving as a showcase of my skills in front-end web development.
+This portfolio project showcases a collection of 6 landing pages developed using HTML, CSS and Sass . Each landing page demonstrates various design concepts and layout techniques, serving as a showcase of my skills in front-end web development.
 Landing Pages
 
     Landing Page 1: graidient landing page
@@ -16,7 +16,6 @@ Technologies Used
     HTML: Used for structuring the content of each landing page.
     CSS: Utilized for styling and customizing the appearance of the landing pages.
     Sass: Leveraged for a more efficient and organized way of writing CSS, allowing for variables, mixins, and nesting.
-    Bootstrap: Integrated to streamline the development process and ensure responsiveness across different devices.
 
 Project Structure
 
