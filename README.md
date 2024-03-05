@@ -63,5 +63,5 @@ portfolio-project/
 
 How to Run
 
-    Clone the repository: git clone [https://github.com/your-username/portfolio-project.git](https://github.com/ghost5554/portfolio)
+    Clone the repository: git clone https://github.com/ghost5554/portfolio.git
   
