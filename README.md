@@ -6,7 +6,7 @@ Landing Pages
 
     Landing Page 1: graidient landing page
     Landing Page 2: pink landing page
-    Landing Page 3: gallery landing page
+    Landing Page 3: coffee landing page
     Landing Page 4: bluebox landing page
     Landing Page 5: yellow landing page
     Landing Page 6: dark landing page
@@ -37,7 +37,7 @@ portfolio-project/
 │   ├── main.css.map
 │   └── [Additional files : imeges]
 
-├── gallery landing page/
+├── coffee landing page/
 │   ├── index.html
 │   ├── style.css
 │   └── [Additional files : imeges]
@@ -63,5 +63,5 @@ portfolio-project/
 
 How to Run
 
-    Clone the repository: git clone [https://github.com/your-username/portfolio-project.git](https://github.com/ghost5554/portfolio)
+    Clone the repository: git clone https://github.com/ghost5554/portfolio.git
   
