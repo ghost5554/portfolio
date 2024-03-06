@@ -4,6 +4,8 @@ Description
 This portfolio project showcases a collection of 6 landing pages developed using HTML, CSS and Sass . Each landing page demonstrates various design concepts and layout techniques, serving as a showcase of my skills in front-end web development.
 Landing Pages
 
+to the project : https://ghost5554.github.io/portfolio/
+
     Landing Page 1: graidient landing page
     Landing Page 2: pink landing page
     Landing Page 3: coffee landing page
